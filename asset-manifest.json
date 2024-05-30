@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NehaGajane/moneyapp.git/static/css/main.327a9aeb.css",
+    "main.js": "/NehaGajane/moneyapp.git/static/js/main.8fe10723.js",
+    "static/media/transactions.svg": "/NehaGajane/moneyapp.git/static/media/transactions.004d9f02317991455e50b36d9dae2a26.svg",
+    "index.html": "/NehaGajane/moneyapp.git/index.html",
+    "main.327a9aeb.css.map": "/NehaGajane/moneyapp.git/static/css/main.327a9aeb.css.map",
+    "main.8fe10723.js.map": "/NehaGajane/moneyapp.git/static/js/main.8fe10723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327a9aeb.css",
+    "static/js/main.8fe10723.js"
+  ]
+}
