@@ -1,0 +1,38 @@
+.signIn-wrapper {
+    height: auto;
+    width: 25%;
+    max-width: 600px;
+    padding: 1.2rem 1.2rem;
+    box-shadow: var(--grey) 2px 2px 25px;
+    border-radius: 15px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.signIn-header {
+    color: var(--black);
+    display: flex;
+    justify-content: center;
+}
+
+.signIn-header>span {
+    color: var(--blue);
+}
+
+.btn-wrapper {
+    padding: 25px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-wrapper>p {
+    color: var(--black);
+    font-size: medium;
+}
+
+a {
+    color: var(--black);
+}

@@ -1,0 +1,22 @@
+.my-card {
+    box-shadow: var(--grey) 2px 2px 25px;
+    border: none;
+    min-width: 250px;
+}
+
+.amount {
+    color: var(--black);
+}
+
+.my-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem;
+    width: 90%;
+}
+
+.cards-div {
+    display: flex;
+    justify-content: center;
+}

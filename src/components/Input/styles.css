@@ -1,0 +1,25 @@
+.input-wrapper {
+    display: flex;
+    flex-direction: column;
+    max-width: 25vw;
+    min-width: 24vw;
+}
+
+.label {
+    color: var(--black);
+    margin: 15px 0 8px 0; 
+    font-size: medium;
+    font-weight: 200;
+}
+.input-wrapper >input {
+    border: none;
+}
+
+.line-div {
+    border: 1px solid var(--grey);
+    width: 100%;
+}
+
+input {
+    padding: 5px 0;
+}

@@ -1,0 +1,26 @@
+.btn {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 5px;
+    border: 2px solid var(--blue);
+    border-radius: 5px;
+    color: var(--blue);
+    /* margin: 15px 0; */
+    max-width: 25vw;
+    min-width: 24vw;
+    cursor: pointer;
+    background-color: white;
+}
+
+.btn:hover {
+    background-color: #9ebfff;
+    color: var(--black);
+    transition: 1s;
+}
+
+.blue-btn {
+    background-color: var(--blue);
+    color: var(--white);
+}

@@ -1,0 +1,25 @@
+.charts-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 90%;
+    height: auto;
+    border-radius: 0.5rem;
+    margin: 10px 75px;
+    /* padding: 30px 0px; */
+    gap: 1rem;
+}
+
+.line-chart-wrapper {
+    width: 60%;
+    box-shadow: var(--grey) 2px 2px 25px;
+    border-radius: 0.5rem;
+    padding: 30px 20px;
+}
+
+.pie-chart-wrapper {
+    width: 40%;
+    box-shadow: var(--grey) 2px 2px 25px;
+    border-radius: 0.5rem;
+    padding: 30px 20px;    
+}
